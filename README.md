@@ -236,6 +236,7 @@ curated list of top AI Tools.
 ## Geospatial
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| FlyPix AI| GeoAI SaaS no-code platform that allows to quickly detect objects and segments on satellite, drone and aerial imagery | [🔗](https://flypix.ai/)|
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
 
 ## Customer Support
