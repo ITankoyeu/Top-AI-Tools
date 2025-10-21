@@ -415,7 +415,9 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| FlyPix AI |GeoAI SaaS platform for object counting and segmentation in satellite, drone, & aerial imagery | [🔗](https://flypix.ai/)|
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
+
 
 ## Customer Support
 
